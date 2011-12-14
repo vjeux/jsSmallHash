@@ -9,6 +9,9 @@
 		"email": "vjeuxx@gmail.com",
 		"url": "http://blog.vjeux.com/"
 	},
+	"dependencies": {
+		"BigInt": "*"
+	},
 	"files": ["src/smallhash.js"],
 	"main": "src/smallhash.js",
 	"repository": {
