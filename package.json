@@ -1,0 +1,18 @@
+{
+	"name": "smallhash",
+	"version": "1.0.0",
+	"description": "Compress data into the smallest string",
+	"keywords": ["compression", "data", "string"],
+	"homepage": "http://blog.vjeux.com/2009/javascript/smallhash-information-compression.html",
+	"author": {
+		"name": "Vjeux",
+		"email": "vjeuxx@gmail.com",
+		"url": "http://blog.vjeux.com/"
+	},
+	"files": ["src/smallhash.js"],
+	"main": "src/smallhash.js",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/vjeux/jsSmallHash.git"
+	}
+}
